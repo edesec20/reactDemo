@@ -1,4 +1,4 @@
-var NewComponent = React.createClass({
+var MyClass = React.createClass({
     render: function() {
         return (
             <div>
